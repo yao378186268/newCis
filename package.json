@@ -9,19 +9,19 @@
         "swagger",
         "apifox"
     ],
-    "homepage": "https://github.com/x011223/cis-api-tool.git",
+    "homepage": "https://github.com/yao378186268/newCis.git",
     "bugs": {
-        "url": "https://github.com/x011223/cis-api-tool.git/issues"
+        "url": "https://github.com/yao378186268/newCis.git/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:x011223/cis-api-tool.git"
+        "url": "git@github.com:yao378186268/newCis.git"
     },
     "license": "MIT",
     "author": {
-        "name": "Jay Fong",
-        "email": "xiaochangxu@hzpmf.com",
-        "url": "https://github.com/x011223"
+        "name": "Ycc",
+        "email": "yaochengcheng@viewshine.com",
+        "url": "https://github.com/yao378186268"
     },
     "sideEffects": false,
     "main": "lib/cjs/index.js",
