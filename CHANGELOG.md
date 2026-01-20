@@ -1,6 +1,13 @@
 # 更新日志
 
 
+### [0.0.52](https://github.com/yao378186268/newCis/compare/v0.0.51...v0.0.52) (2026-01-20)
+
+
+### 修复
+
+* 测试log ([4f244ca](https://github.com/yao378186268/newCis/commit/4f244cae25c1743817b4e05d8afad1d0bdf9ea8a))
+
 ### [0.0.51](https://github.com/yao378186268/newCis/compare/v0.0.50...v0.0.51) (2026-01-20)
 
 ### [0.0.50](https://github.com/yao378186268/newCis/compare/v0.0.49...v0.0.50) (2026-01-20)
