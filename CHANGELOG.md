@@ -1,6 +1,8 @@
 # 更新日志
 
 
+### [0.0.57](https://github.com/yao378186268/newCis/compare/v0.0.56...v0.0.57) (2026-01-20)
+
 ### [0.0.56](https://github.com/yao378186268/newCis/compare/v0.0.55...v0.0.56) (2026-01-20)
 
 ### [0.0.55](https://github.com/yao378186268/newCis/compare/v0.0.54...v0.0.55) (2026-01-20)
