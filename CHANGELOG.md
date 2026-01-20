@@ -1,6 +1,13 @@
 # 更新日志
 
 
+### [0.0.49](https://github.com/yao378186268/newCis/compare/v0.0.48...v0.0.49) (2026-01-20)
+
+
+### 修复
+
+* **apiPower:** 更新token为新值 ([25697d9](https://github.com/yao378186268/newCis/commit/25697d9dcbf96f4d7d9560b5dfdbd4f6e3c80633))
+
 ### [0.0.48](https://github.com/yao378186268/newCis/compare/v0.0.47...v0.0.48) (2026-01-20)
 
 ### [0.0.47](https://github.com/yao378186268/newCis/compare/v0.0.46...v0.0.47) (2026-01-20)
