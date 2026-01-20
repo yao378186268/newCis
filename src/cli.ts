@@ -11,6 +11,8 @@ import { dedent, wait } from "./vutils/function";
 import { Defined } from "./vutils/type";
 import { Generator } from "./Generator";
 
+console.log('cis-api-tool')
+
 TSNode.register({
   // 不加载本地的 tsconfig.json
   skipProject: true,
