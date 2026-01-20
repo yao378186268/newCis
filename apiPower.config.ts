@@ -28,7 +28,7 @@ export default defineConfig([
       {
         // APS-QJLxBBUyhhxjVaEHY4zwmeRrZoarUwCv
         // APS-aMDN8zefvjQbwj60rILwqB2hogDmWkh7
-        token: "APS-QJLxBBUyhhxjVaEHY4zwmeRrZoarUwCv",
+        token: "APS-QGtEsGJngJHGZvKKbWU2wDUXbmJDcWHg",
         categories: [
           {
             id: 0,
